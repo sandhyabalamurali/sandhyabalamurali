@@ -3,7 +3,7 @@
 <h3 align="center">💻 Full Stack Developer | 🎓 CSE Student | 🌍 Tech for Good Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=500&color=F73A52&center=true&vCenter=true&width=435&lines=Aspiring+Software+Engineer;Full+Stack+Web+Developer;Loves+Flask%2C+React+%26+SpringBoot;Cloud+%7C+AI+%7C+Hackathon+Finalist" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=500&color=F73A52&center=true&vCenter=true&width=435&lines=Aspiring+Software+Engineer;Full+Stack+Web+Developer;Loves+Flask%2C+React+%26+SpringBoot;+AI+%7C+Hackathon+Finalist" alt="Typing SVG" />
 </p>
 
 ---
