@@ -12,9 +12,16 @@
 
 - 🎓 I'm currently pursuing **B.E. CSE** at Saveetha Engineering College (2022–2026)  
 - 💡 Skilled in full-stack development and passionate about **AI, accessibility, and open source**  
-- 🌱 Constantly growing in **MERN**, **Spring Boot**, **DSA**, and **Cloud Technologies**  
+- 🌱 Constantly growing in **MERN**, **Spring Boot** and **DSA**
 - 🛠️ Internships at *FailSafe Hiring*, *WinVinaya Infosystems*  
-- 🏆 Datathon Winner | Hackathon Finalist | Active community contributor  
+- 🏆 Datathon Winner | Hackathon Finalist
+
+---
+### 🎨 Fun GIF for the Vibes
+
+<p align="center">
+  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="300" />
+</p>
 
 ---
 
@@ -93,13 +100,6 @@
 
 ---
 
-### 🎨 Fun GIF for the Vibes
-
-<p align="center">
-  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="300" />
-</p>
-
----
 
 > ✨ *“Design, Develop, Deliver – That’s my mantra!”*  
 > 🔗 *Let’s connect and build something amazing!*
