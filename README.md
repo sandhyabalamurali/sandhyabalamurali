@@ -71,7 +71,6 @@
 🥇 **IBM Z Datathon** – Regional Winner  
 🏅 **SRMIST Datathon** – Finalist  
 🏥 **IIIT Sricity Hackathon** – Grand Finalist  
-🎙️ Public Speaking & UX Certified (Coursera, Google, DeepLearning.AI)
 
 </div>
 
