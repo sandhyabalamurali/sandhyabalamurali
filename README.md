@@ -16,10 +16,10 @@
   />
 </div>
 
-<!-- Animated Separator -->
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" />
 </p>
+
 <!-- About Me Section with Enhanced Design -->
 <div align="center">
   <h2><img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="40" /> About Me</h2>
@@ -37,7 +37,7 @@
 
 <!-- Animated Separator -->
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" />
 </p>
 <!-- Connect with Me Section --> 
 <div align="center">
@@ -66,7 +66,7 @@
 
 <!-- Animated Separator -->
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" />
 </p>
 <!-- Tech Stack with Animated Icons -->
 <div align="center">
@@ -122,7 +122,7 @@
 </div>
 <!-- Animated Separator -->
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" />
 </p>
 <!-- Projects Showcase with Gradient Effects -->
 <div align="center">
@@ -215,7 +215,7 @@
 
 <!-- Animated Separator -->
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" />
 </p>
 <!-- Achievements with Gradient Cards -->
 <div align="center">
@@ -247,7 +247,7 @@
 </div>
 <!-- Animated Separator -->
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" />
 </p>
 <!-- GitHub Stats with Gradient Cards -->
 <div align="center">
@@ -266,10 +266,17 @@
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandhyabalamurali&theme=tokyonight&hide_border=true&bg_color=0D1117&border_radius=15&layout=compact" alt="Top Languages" width="44%" />
   </a>
 </div>
+<!-- GitHub Activity Graph -->
+<div align="center">
+  <h2><img src="https://user-images.githubusercontent.com/74038190/212257468-1e9a91f1-b626-4baa-b15d-5c385dfa7ed2.gif" width="40" /> Activity Graph</h2>
+  <a href="https://github.com/sandhyabalamurali">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=sandhyabalamurali&theme=react-dark&hide_border=true&bg_color=0D1117" width="100%"/>
+  </a>
+</div>
 
 <!-- Animated Separator -->
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" />
 </p>
 <!-- LeetCode Stats with Gradient -->
 <div align="center">
@@ -280,7 +287,7 @@
 </div>
 <!-- Animated Separator -->
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" />
 </p>
 <!-- GitHub Trophies with Gradient -->
 <div align="center">
@@ -291,7 +298,7 @@
 </div>
 <!-- Animated Separator -->
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+  <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" />
 </p>
 
 <!-- Animated Footer -->
