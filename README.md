@@ -43,6 +43,9 @@
   <a href="https://leetcode.com/u/Sandhyabalamurali/" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="32" />
   </a>
+  <a href="https://sandhyabalamurali.netlify.app/" target="_blank">
+    <img src="https://img.icons8.com/fluency/48/domain.png" width="32" alt="Portfolio" />
+  </a>
 </p>
 
 ---
