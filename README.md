@@ -5,6 +5,9 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=FA5A5A&center=true&vCenter=true&width=500&lines=Aspiring+Software+Engineer;Full+Stack+Web+Developer;Loves+Flask%2C+React+%26+SpringBoot;AI+%7C+Hackathon+Finalist" alt="Typing SVG" />
 </p>
+<p align="center">
+  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="300" />
+</p>
 
 ---
 
@@ -21,13 +24,7 @@
 
 ---
 
-### 🎨 Fun Vibes
 
-<p align="center">
-  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="300" />
-</p>
-
----
 
 ### 🌐 Connect with Me
 
