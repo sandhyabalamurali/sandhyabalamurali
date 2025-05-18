@@ -1,94 +1,106 @@
-Hello, I'm Sandhya Balamurali 👋
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=6A0DAD&width=435&lines=Full+Stack+Developer;UI%2FUX+Designer;AI+%26+ML+Enthusiast" alt="Typing SVG" />
-</div>
-💫 About Me
+<!-- Typing intro with your role -->
+<h1 align="center">Hi 👋, I'm Sandhya Balamurali</h1>
+<h3 align="center">💻 Full Stack Developer | 🎓 CSE Student | 🌍 Tech for Good Enthusiast</h3>
 
-🎓 Computer Science & Engineering student at Saveetha Engineering College (2022-2026)
-💻 Full Stack Developer with focus on web applications and UI/UX design
-🤖 Exploring AI & Machine Learning technologies
-🌱 Currently working on healthcare chatbots and text extraction tools
-📫 How to reach me: sandhyabalamurali03@gmail.com
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=500&color=F73A52&center=true&vCenter=true&width=435&lines=Aspiring+Software+Engineer;Full+Stack+Web+Developer;Loves+Flask%2C+React+%26+SpringBoot;Cloud+%7C+AI+%7C+Hackathon+Finalist" alt="Typing SVG" />
+</p>
 
-🛠️ Tech Stack
-<div align="center">
-https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white
-Show Image
-Show Image
-Show Image
-Show Image
-Show Image
-Show Image
-Show Image
-Show Image
-Show Image
-</div>
-🚀 Featured Projects
-<div align="center">
-  <a href="https://github.com/sandhyabn/cliniquest">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sandhyabn&repo=cliniquest&theme=nightowl" alt="CLINIQUEST" />
-  </a>
-  <a href="https://github.com/sandhyabn/verba-vision-pro">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sandhyabn&repo=verba-vision-pro&theme=nightowl" alt="VERBA VISION PRO" />
-  </a>
-  <a href="https://github.com/sandhyabn/quizmakerapp">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sandhyabn&repo=quizmakerapp&theme=nightowl" alt="QuizMakerApp" />
-  </a>
-  <a href="https://github.com/sandhyabn/getyourstay">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sandhyabn&repo=getyourstay&theme=nightowl" alt="GetYourStay" />
-  </a>
-</div>
-🏆 Achievements
+---
 
-🥇 IBM Z Datathon – Regional Winner
-🏅 SRMIST Datathon – Finalist
-🏆 Thryve Digital IIIT Sricity Healthcare Hackathon – Grand Finalist
+### 💁‍♀️ About Me
 
-📊 GitHub Stats
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sandhyabn&show_icons=true&theme=nightowl" alt="GitHub Stats" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandhyabn&layout=compact&theme=nightowl" alt="Top Languages" height="170" />
-</div>
-📈 GitHub Streak
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sandhyabn&theme=nightowl" alt="GitHub Streak" />
-</div>
-🏅 GitHub Trophies
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sandhyabn&theme=nord&no-frame=true&margin-w=15&margin-h=15&column=6" alt="GitHub Trophies" />
-</div>
-📜 Certifications
+- 🎓 I'm currently pursuing **B.E. CSE** at Saveetha Engineering College (2022–2026)  
+- 💡 Skilled in full-stack development and passionate about **AI, accessibility, and open source**  
+- 🌱 Constantly growing in **MERN**, **Spring Boot**, **DSA**, and **Cloud Technologies**  
+- 🛠️ Internships at *FailSafe Hiring*, *WinVinaya Infosystems*  
+- 🏆 Datathon Winner | Hackathon Finalist | Active community contributor  
 
-Data & AI Skills Certificate – IBM, 2023
-Google Cloud Career Launchpad
-Foundations of User Experience (UX) Design
-IBM Z Xplore Concepts Badge
-Introduction to IoT – NPTEL
-Dynamic Public Speaking – Coursera
-Generative AI for Everyone – DeepLearning.AI
-Functions, Tools, and Agents using LangChain – Coursera
-Introduction to Vertex AI Studio – Coursera
-Multimodal Retrieval Augmented Generation (RAG)
+---
 
-🌐 Connect With Me
-<div align="center">
-  <a href="https://linkedin.com/in/sandhya-bn">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/sandhyabn">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-  <a href="https://leetcode.com/sandhyabn">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode" />
-  </a>
-  <a href="mailto:sandhyabalamurali03@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</div>
+### 🌐 Connect with Me
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=sandhyabn&color=blueviolet&style=flat-square&label=Profile+Views" alt="Profile Views" />
-</div>
-<div align="center">
-Thank you for visiting my profile! 💜
-</div>
+<p align="center">
+  <a href="https://github.com/sandhyabalamurali">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="35" alt="GitHub" />
+  </a>
+  &nbsp;
+  <a href="https://www.linkedin.com/in/sandhya-balamurali">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="35" alt="LinkedIn" />
+  </a>
+  &nbsp;
+  <a href="https://leetcode.com/u/Sandhyabalamurali/">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/LeetCode_logo_black.png" width="32" alt="LeetCode" />
+  </a>
+</p>
+
+---
+
+### 🧠 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,python,javascript,html,css,react,flask,spring,mysql,git,github,vscode,postman,netlify" />
+</p>
+
+---
+
+### 💼 Projects Showcase
+
+- 🧠 **CLINIQUEST** – AI Healthcare chatbot for medical assistance  
+- 🔎 **Verba Vision Pro** – OCR-based text reader with multilingual and layout support  
+- 📝 **QuizMakerApp** – Upload PDFs to auto-generate interactive quizzes  
+- 🏠 **GetYourStay** – Smart house-sharing application with search and filters
+
+---
+
+### 🏆 Achievements
+
+- 🥇 **IBM Z Datathon** – Regional Winner  
+- 🏅 **SRMIST Datathon** – Finalist  
+- 🏥 **IIIT Sricity Hackathon** – Grand Finalist  
+- 🗣️ Public Speaking & UX Certified (Coursera, Google, DeepLearning.AI)
+
+---
+
+### 📊 GitHub Stats & Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=sandhyabalamurali&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sandhyabalamurali&theme=tokyonight&hide_border=true" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandhyabalamurali&layout=compact&theme=tokyonight&hide_border=true" width="42%" />
+</p>
+
+---
+
+### 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=sandhyabalamurali&theme=gruvbox&row=1&column=6&margin-w=10" />
+</p>
+
+---
+
+### 🌟 Certifications
+
+- ✅ Data & AI Skills – IBM  
+- ✅ Google UX Design  
+- ✅ Intro to IoT – NPTEL  
+- ✅ Generative AI – DeepLearning.AI  
+- ✅ LangChain Tools, Vertex AI, Multimodal RAG – Coursera  
+
+---
+
+### 🎨 Fun GIF for the Vibes
+
+<p align="center">
+  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="300" />
+</p>
+
+---
+
+> ✨ *“Design, Develop, Deliver – That’s my mantra!”*  
+> 🔗 *Let’s connect and build something amazing!*
+
