@@ -5,7 +5,7 @@
 <h3 align="center">💻 Full Stack Developer | 🎓 CSE Student | 🌍 Tech for Good Enthusiast</h3>
 <!-- Animated Typing -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=FF6B6B&center=true&vCenter=true&width=500&lines=Aspiring+Software+Engineer;Full+Stack+Web+Developer;Loves+Flask%2C+React+%26+SpringBoot;AI+%7C+Hackathon+Finalist" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=FF6B6B&center=true&vCenter=true&width=500&lines=Aspiring+Software+Engineer;Full+Stack+Web+Developer;+Flask%2C+React+%26+SpringBoot;AI+%7C+Hackathon+Finalist" alt="Typing SVG" />
 </p>
 <!-- Animated Separator -->
 <p align="center">
@@ -29,10 +29,6 @@
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 </p>
-<!-- Fun Animation Section -->
-<div align="center">
-  <h2><img src="https://user-images.githubusercontent.com/74038190/216124356-9c152f5b-554d-400c-a2f3-84f0f0b9a627.png" width="40" /> Fun Vibes</h2>
-</div>
 <div align="center">
   <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="300" />
 </div>
