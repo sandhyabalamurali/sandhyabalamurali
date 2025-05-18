@@ -7,6 +7,15 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=24&pause=1000&color=FF6B6B&center=true&vCenter=true&width=500&lines=Aspiring+Software+Engineer;Full+Stack+Web+Developer;+Flask%2C+React+%26+SpringBoot;AI+%7C+Hackathon+Finalist" alt="Typing SVG" />
 </p>
+<div align="center" style="margin: 20px 0;">
+  <img 
+    src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaTJsbWVkcXdqd294OWVuanRjNzRzd2toZjNxdzR1c3I4MXhnZXRjZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QDjpIL6oNCVZ4qzGs7/giphy.gif" 
+    alt="Coding Girl Animation" 
+    width="300" 
+    style="border-radius: 10px;"
+  />
+</div>
+
 <!-- Animated Separator -->
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
@@ -25,20 +34,17 @@
     <b>🏆 Achievements</b> IBM Z Datathon Winner | SRMIST Datathon Finalist
   </div>
 </div>
-<!-- Animated Separator -->
-<p align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-</p>
-<div align="center">
-  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="300" />
-</div>
+
 <!-- Animated Separator -->
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 </p>
 <!-- Connect with Me Section --> 
 <div align="center">
-  <h2><img src="https://user-images.githubusercontent.com/74038190/216125640-2510d01c-59d4-4a96-8ad5-ba9ef14f3048.png" width="40" /> Connect with Me</h2>
+  <h2>
+    <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTVscmZzYXg2c2JsdHBpdWI0Ym9jejI2YWJoaG8zeWtjaTZiYXE0cSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT9DPIlGnuHpr2yObu/giphy.gif" width="60" style="vertical-align: middle;" />
+    Connect with Me
+  </h2>
 </div>
 <div align="center">
   <a href="https://github.com/sandhyabalamurali" target="_blank">
@@ -120,8 +126,8 @@
 <!-- Projects Showcase with Gradient Effects -->
 <div align="center">
   <h2>
-    <img src="https://cdn-icons-png.flaticon.com/512/833/833524.png" width="40" /> 
-    <span style="background: linear-gradient(to right, #00c6ff, #0072ff); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">Projects Showcase</span>
+    <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2gyYzdieGM1Z2hidDV1c3pydGN4cG4xYnZkOHN1eGlxb3F2Mm5hcSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/r7FYh3xQvTlbLexZT3/giphy.gif" width="60" /> 
+    <span>Projects Showcase</span>
   </h2>
 </div>
 <!-- Featured Projects with Gradient Cards -->
