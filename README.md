@@ -78,7 +78,7 @@
 ### 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sandhyabalamurali&theme=gruvbox&row=1&column=6&margin-w=10" />
+  <img src="https://github-profile-trophy.vercel.app/?username=sandhyabalamurali&theme=darkhub&no-frame=true&title=MultiLanguage,Commits,Stars,Repositories,PullRequest,Issues" />
 </p>
 
 ---
