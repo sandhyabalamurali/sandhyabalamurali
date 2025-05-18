@@ -47,9 +47,6 @@
   </h2>
 </div>
 <div align="center">
-  <a href="https://github.com/sandhyabalamurali" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
   <a href="https://www.linkedin.com/in/sandhya-balamurali" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
@@ -57,10 +54,16 @@
   <a href="mailto:sandhyabalamurali03@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://sandhyabalamurali.netlify.app/" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/Portfolio-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" />
-</a>
+  
+  <a href="https://sandhyabalamurali.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white" alt="Portfolio" />
+  </a>
+  
+  <a href="https://leetcode.com/u/Sandhyabalamurali/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
+  </a>
 </div>
+
 <!-- Animated Separator -->
 <p align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
@@ -262,6 +265,18 @@
   <a href="https://github.com/sandhyabalamurali">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sandhyabalamurali&theme=tokyonight&hide_border=true&bg_color=0D1117&border_radius=15&layout=compact" alt="Top Languages" width="44%" />
   </a>
+</div>
+
+<!-- Animated Separator -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+</p>
+<!-- LeetCode Stats with Gradient -->
+<div align="center">
+  <h2><img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="40" /> LeetCode Stats</h2>
+</div>
+<div align="center">
+  <img src="https://leetcard.jacoblin.cool/Sandhyabalamurali?theme=dark&font=Poppins&ext=heatmap" alt="LeetCode Stats" width="50%" />
 </div>
 <!-- Animated Separator -->
 <p align="center">
