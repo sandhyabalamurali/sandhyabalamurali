@@ -279,11 +279,9 @@
   <img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="100%" />
 </p>
 <!-- LeetCode Stats with Gradient -->
-<h2>
+<h2 align="center">
   <img src="https://user-images.githubusercontent.com/74038190/212257465-7ce8d493-cac5-494e-982a-5a9deb852c4b.gif" width="40" /> LeetCode Stats
 </h2>
-
-</div>
 <div align="center">
   <a href="https://leetcode.com/u/Sandhyabalamurali/">
   <img src="https://leetcard.jacoblin.cool/Sandhyabalamurali?theme=dark&font=Poppins&ext=heatmap" alt="LeetCode Stats" width="50%" />
