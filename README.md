@@ -58,10 +58,6 @@
   <a href="https://sandhyabalamurali.netlify.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=Google-chrome&logoColor=white" alt="Portfolio" />
   </a>
-  
-  <a href="https://leetcode.com/u/Sandhyabalamurali/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode" />
-  </a>
 </div>
 
 <!-- Animated Separator -->
